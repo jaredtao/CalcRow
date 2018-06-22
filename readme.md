@@ -1,4 +1,5 @@
 # calcRow
+[![Build Status](https://travis-ci.org/wentaojia2014/CalcRow.svg?branch=master)](https://travis-ci.org/wentaojia2014/CalcRow)
 
 用来统计代码行数
 
